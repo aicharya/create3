@@ -1,2 +1,2 @@
 # create3
-iRobot Create 3 experiments
+Learning ROS2 with iRobot Create 3
